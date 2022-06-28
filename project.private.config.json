@@ -1,0 +1,109 @@
+{
+  "setting": {
+    "compileHotReLoad": true,
+    "urlCheck": false
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/login/login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/my/my",
+          "pathName": "pages/my/my",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/message/message",
+          "pathName": "pages/message/message",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/messageCreate/messageCreate",
+          "pathName": "pages/messageCreate/messageCreate",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/completeInformation/completeInformation",
+          "pathName": "pages/completeInformation/completeInformation",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/home/home",
+          "pathName": "pages/home/home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/adminHome/adminHome",
+          "pathName": "pages/adminHome/adminHome",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "卡片用户",
+          "pathName": "pages/check_user_reserve/check_user_reserve",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "增加物品",
+          "pathName": "pages/add_product/add_product",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "feedback_sub",
+          "pathName": "pages/feedback_sub/feedback_sub",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "feedback_his",
+          "pathName": "pages/feedback_his/feedback_his",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "feedbackhandle",
+          "pathName": "pages/feedback_handle/feedback_handle",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "feedback_adm",
+          "pathName": "pages/feedback_adm/feedback_adm",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  },
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "WeChatCompetition2022-main"
+}
